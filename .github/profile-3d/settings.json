@@ -1,0 +1,13 @@
+[
+  {
+    "type": "normal",
+    "fileName": "profile-opendesk-teal.svg",
+    "backgroundColor": "#0f1419",
+    "foregroundColor": "#e8eef4",
+    "strongColor": "#3db8a8",
+    "weakColor": "#8b9aab",
+    "radarColor": "#2a8f83",
+    "growingAnimation": true,
+    "contribColors": ["#232d3a", "#1f5c55", "#2a8f83", "#3db8a8", "#7fe0d3"]
+  }
+]
