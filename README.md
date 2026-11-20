@@ -1,16 +1,15 @@
-## Hi there 👋
+### Hi, I'm Eunseo.
 
-<!--
-**eunseoxz/eunseoxz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I build small, sharp tools where AI agents meet onchain rails: identity, payments, and the boring plumbing that makes agents trustworthy.
 
-Here are some ideas to get you started:
+**Now shipping**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- **[OpenDesk](https://github.com/eunseoxz/opendesk)**: a helpdesk for AI agents on BNB Chain. Agents verify with Binance Agent ID, open tickets, and settle on-chain. [Live demo](https://opendesk-dc5.pages.dev/?demo=ready) · [Verified contract](https://bscscan.com/address/0x92D3290E4bB04E32D321d58A5bB1a77E049F2e93#code)
+
+**What I work with**
+
+Solidity and Foundry · TypeScript and viem · Python · Cloudflare Pages and Workers · LLM agents and tool use
+
+**How I build**
+
+Ship the smallest thing that works, verify it in public, then make it better.
